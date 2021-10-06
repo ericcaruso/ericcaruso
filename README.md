@@ -6,8 +6,7 @@ atualmente em uma startup delivery.
 
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcaruso&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcaruso&theme=blue-green"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcaruso&theme=blue-green"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,11 +23,5 @@ atualmente em uma startup delivery.
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
   
-  </div>
-
-<div> 
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
