@@ -5,9 +5,6 @@ Trabalho com desenvolvimento de sistemas web a mais de 10 anos,
 atualmente em uma startup delivery.
 
 
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcaruso&theme=blue-green"/>
-</div>
 
 <div style="display: inline_block"><br>
  
